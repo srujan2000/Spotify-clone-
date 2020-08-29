@@ -138,6 +138,8 @@ body{
     padding-bottom: 10px;
     padding-right: 25px;
     padding-left: 25px;
+    outline: none;
+    border: none;
 }
 
 
